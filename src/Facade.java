@@ -1,8 +1,6 @@
-/*Há dois modos de resolver, 
- * Eles estarão propostos abaixo
- * somente descomentar
- * Patern Façade
- */
+
+ // Patern FaÃ§ade
+ 
 public class Facade {
 
 	PlaneFactory factory;
