@@ -1,5 +1,5 @@
-/* Sistema de Aviıes */
-//Patterns FaÁade, State, AbstractFactory
+/* Sistema de Avi√µes */
+//Patterns Fa√ßade, Strategy, AbstractFactory
 public class Main {
 
 	public static void main(String[] args) {
